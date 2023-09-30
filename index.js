@@ -36,4 +36,4 @@ const startServer = async () => {
 startServer();
 
 // Export the Express API
-module.exports = app
+export default app
