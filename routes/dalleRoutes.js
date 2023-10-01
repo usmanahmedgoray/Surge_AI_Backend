@@ -33,9 +33,9 @@ const router = express.Router();
 // Configuration of Open AI API
 
 const configuration = new Configuration({
-    // apiKey: "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"
+    apiKey: "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"
     // apiKey: "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"
-    apiKey: "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"
+    // apiKey: "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"
 
 });
 
