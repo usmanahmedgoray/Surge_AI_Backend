@@ -33,7 +33,7 @@ const router = express.Router();
 // Configuration of Open AI API
 
 const configuration = new Configuration({
-    apiKey: "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"
+    apiKey: OPENAI_API_KEY
     // apiKey: "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"
     // apiKey: "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"
 
